@@ -1,4 +1,4 @@
-forumapp
+forumapp [![Build Status](https://travis-ci.org/shekhargulati/forumapp.png)](https://travis-ci.org/shekhargulati/forumapp)
 ========
 
 Demo application for JUDCon Brazil OpenShift workshop
