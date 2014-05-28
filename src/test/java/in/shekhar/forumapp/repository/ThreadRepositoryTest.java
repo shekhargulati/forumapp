@@ -43,7 +43,7 @@ public class ThreadRepositoryTest {
 		in.shekhar.forumapp.domain.Thread thread = newThread();
 
 		threadRepository.save(thread);
-
+		assertNotNull(thread);
 		assertNotNull(thread.getId());
 	}
 
